@@ -1,0 +1,21 @@
+{
+  "name": "camilo-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --port=8081",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.0.5",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
